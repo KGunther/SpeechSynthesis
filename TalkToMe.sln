@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TalkToMe", "TalkToMe\TalkToMe.csproj", "{989A4EFF-E643-43B2-84C1-298707A0B765}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{989A4EFF-E643-43B2-84C1-298707A0B765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{989A4EFF-E643-43B2-84C1-298707A0B765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{989A4EFF-E643-43B2-84C1-298707A0B765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{989A4EFF-E643-43B2-84C1-298707A0B765}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5663D1C-49BB-4710-88B7-A3D09BFF3EB2}
+	EndGlobalSection
+EndGlobal
