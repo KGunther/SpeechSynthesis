@@ -57,6 +57,11 @@ namespace TalkToMe
             About.ShowDialog();
             About.Dispose();
         }
+
+        private void btnClear_Click(object sender, EventArgs e)
+        {
+            txtMessage.Clear();
+        }
     }
 }
 
